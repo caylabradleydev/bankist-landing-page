@@ -6,7 +6,7 @@ This project is based on Jonas Schmedtmann's course, 'The complete Javascript co
 
 ## Demo
 
-<a href="https://bankist-caylabradleydev.netlify.app/">Bankist</a>
+[BANKIST DEMO] (https://bankist-caylabradleydev.netlify.app/)
 
 ---
 
