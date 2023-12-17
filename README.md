@@ -1,8 +1,12 @@
 # Bankist Landing Page
 
-Bankist is a fictional online bank designed for the modern minimalist. This landing page is designed to showcase `JavaScript` Concepts such as DOM manipulation, Event Propagation, Intersection Observer API, and more.
+Bankist is a fictional online bank designed for the modern minimalist. This landing page is designed to showcase `JavaScript` concepts such as DOM manipulation, Event Propagation, Intersection Observer API, and more.
 
 This project is based on Jonas Schmedtmann's course, 'The complete Javascript course 2024: From Zero to Expert!', and is was created for learning purposes only.
+
+## Demo
+
+<a href="https://bankist-caylabradleydev.netlify.app/">Bankist</a>
 
 ---
 
